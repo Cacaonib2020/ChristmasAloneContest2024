@@ -3,31 +3,33 @@
 整数$N$, $M$が与えらえる。原点を通り、$xy$平面上の領域 $D={(x, y)|0<x≦N, 0<y≦N}$ 内の格子点をちょうど$M$個通るような直線の本数を求めてください。
 
 #制約
-1≦$N$≦10^5
-1≦$M$≦N
+- 1 $leq $N$ $leq 10^5
+- 1 $leq $M$ $leq N
 
 #標準入力
+```md
 $N$ $M$
+```md
 
 答えを出力せよ。
 
 #解答例
 v v v v v
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+```cpp
 #include <bits/stdc++.h>
 #define rep(i, n) for(int i=0; i<(int)n; i++)
 #define All(x) x.begin(), x.end()
@@ -69,3 +71,4 @@ int main() {
     cout << ans << endl;
     return 0;
 }
+```
