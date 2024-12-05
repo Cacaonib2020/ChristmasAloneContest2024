@@ -1,5 +1,6 @@
 # Problem List
-
+> [!IMPORTANT]
+> 問題制作者管理のためREADME.mdが出来た時点でこのファイルに追記してください．
 ## Problem List
 
 | 問題Slug | 問題タイトル | 想定Diff | 提案者 | 問題ページ(Upload済であれば) |
