@@ -60,11 +60,11 @@ def save_test_cases(case_count=35, startnum=0,output_dir="./in", max_n=200000, m
         # Generate test case
         test_case = generate_random_input(max_n=max_n, max_q=max_q, max_time=max_time)
         # Save to file
-        file_path = os.path.join(output_dir, f"testcase-{(i+startnum):02d}.txt")
+        file_path = os.path.join(output_dir, f"sample-{(i+startnum):02d}.txt")
         with open(file_path, "w") as f:
             f.write(test_case)
         print(f"Generated {file_path}")
 
 # Generate and save test cases
 if __name__ == "__main__":
-    save_test_cases(case_count=7, startnum=21,output_dir="./in", max_n=2*10**5, max_q=2*10**5, max_time=10**18)  # Small-scale example
+    save_test_cases(case_count=3, startnum=1,output_dir="./in", max_n=4, max_q=4, max_time=60)  # Small-scale example
