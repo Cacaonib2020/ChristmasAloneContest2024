@@ -58,6 +58,7 @@ int main() {
     mp[a]++;
     mp[b]--;
   }
+  // for(auto v:mp)clog << v.first << " " << v.second << endl;
   map<ll,ll> num;
   ll now = 0;
   num[0] = 0;
@@ -67,12 +68,14 @@ int main() {
   }
   vector<ll> numlist;
   for(auto v:num)numlist.push_back(v.first);
+  // for(auto v:numlist)clog << v << " ";clog<<endl;
+  // for(auto v:numlist)clog << num[v] << " ";
   ll q;
   cin >> q;
   rep(i,q){
     ll t;
     cin >> t;
-    ll cur = lower_bound(all(numlist),t)-numlist.begin();
+    ll cur = lower_bound(all(numlist),t)-numlist.begin()-1;
     cout << num[numlist[cur]] << endl;
   }
   return 0;
