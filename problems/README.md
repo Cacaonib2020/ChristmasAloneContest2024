@@ -9,7 +9,7 @@
 | shortestpalindrome | パンダくんは回文サンタ！ | 175 | Cacaonib2020 | https://mojacoder.app/users/CacaoNiB/problems/shortestpalindrome |
 | makepalindrome | カカオくんは回文サンタ！ | 150 | Cacaonib2020 |  |
 | flowerpark | Flower Park | 400 | Cacaonib2020 | https://mojacoder.app/users/CacaoNiB/problems/flowerpark |
-|  |  |  |  |  |
+| halfmirror | Half Mirror | 1200 | ya75jp(yama87) |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -24,5 +24,5 @@
 | - | - |
 | makepalindrome | 出力を「辞書順最小」にすればDiff150~180程度 |
 | flowerpark | C++で$`O(N+Q+QlogN)`$解法を実装したら2.69sでした．さらに高速化できますか？ |
-|  |  |
+| halfmirror | 「クリスマス」「高専」のどちらのコンセプトにも合わないです |
 |  |  |
