@@ -6,7 +6,7 @@
 > 問題制作者管理のためREADME.mdが出来た時点でこのファイルに追記してください．
 ## Problem List
 
-| 問題Slug | 問題タイトル | 想定Diff | 提案者 | 問題ページ(Upload済であれば) | C++正解チェック | Python正解チェック |
+| 問題Slug | 問題タイトル | 想定Diff | 提案者 | 問題ページ(Upload済であれば) | C++正解<br>チェック | Python正解<br>チェック |
 | - | - | -: | - | - | :-: | :-: |
 | ornaments | クリスマス商戦！パンダくん！ | 50 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/ornaments) | o | o |
 | shortestpalindrome | パンダくんは回文サンタ！ | 175 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/shortestpalindrome) | o |  |
@@ -26,7 +26,7 @@
 | 問題Slug  | 補足 |
 | - | - |
 | makepalindrome | 出力を「辞書順最小」にすればDiff150~180程度 |
-| flowerpark | ~~C++で$`O(N+Q+QlogN)`$解法を実装したら2.69sでした．さらに高速化できますか？~~ 2024/12/07解決済み|
+| flowerpark | ~~C++でO(N+Q+QlogN)解法を実装したら2.69sでした．さらに高速化できますか？~~ 2024/12/07解決済み|
 | halfmirror | ~~「クリスマス」「高専」のどちらのコンセプトにも合わないです(レギュレーションx)~~ 2024/12/08解決済み |
 | wolf-crisis | mojacoderに初めて投稿するせいか、想定解と思うコードを提出しても実行時エラー(RE)になります。どなたかアドバイスください |
 | shortestpalindrome<br>makepalindrome | ACを得たC++コードと同様の動作をするPythonコードが通らないです |
