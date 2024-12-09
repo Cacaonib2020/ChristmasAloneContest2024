@@ -6,7 +6,7 @@
 > 問題制作者管理のためREADME.mdが出来た時点でこのファイルに追記してください．
 ## Problem List
 
-| 問題Slug | 問題タイトル | 想定Diff | 提案者 | 問題ページ(Upload済であれば) | C++正解<br>チェック | Python正解<br>チェック |
+| 問題Slug | 問題タイトル | 想定Diff | 提案者 | 問題ページ(Upload済であれば) | C++<br>AC | Python<br>AC |
 | - | - | -: | - | - | :-: | :-: |
 | ornaments | クリスマス商戦！パンダくん！ | 50 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/ornaments) | o | o |
 | shortestpalindrome | パンダくんは回文サンタ！ | 175 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/shortestpalindrome) | o |  |
