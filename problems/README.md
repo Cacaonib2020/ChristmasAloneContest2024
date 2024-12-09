@@ -13,7 +13,7 @@
 | makepalindrome | カカオくんは回文サンタ！ | 150 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/makepalindrome) | o |  |
 | flowerpark | Flower Park | 400 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/flowerpark) | o | o |
 | halfmirror | Half Mirror | 1200 | ya75jp(yama87) |  |  |  |
-|  |  |  |  |  |  |  |
+| wolf-crisis | Wolf-Crisis | 150 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/wolf-crisis) |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -26,6 +26,7 @@
 | 問題Slug  | 補足 |
 | - | - |
 | makepalindrome | 出力を「辞書順最小」にすればDiff150~180程度 |
-| flowerpark | C++で$`O(N+Q+QlogN)`$解法を実装したら2.69sでした．さらに高速化できますか？ |
-| halfmirror | 「クリスマス」「高専」のどちらのコンセプトにも合わないです(レギュレーションx) |
+| flowerpark | ~~C++で$`O(N+Q+QlogN)`$解法を実装したら2.69sでした．さらに高速化できますか？~~ 2024/12/07解決済み|
+| halfmirror | ~~「クリスマス」「高専」のどちらのコンセプトにも合わないです(レギュレーションx)~~ 2024/12/08解決済み |
+| wolf-crisis | mojacoderに初めて投稿するせいか、想定解と思うコードを提出しても実行時エラー(RE)になります。どなたかアドバイスください |
 | shortestpalindrome<br>makepalindrome | ACを得たC++コードと同様の動作をするPythonコードが通らないです |
