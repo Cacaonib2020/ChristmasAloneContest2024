@@ -14,7 +14,7 @@
 | flowerpark | Flower Park | 400 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/flowerpark) | o | o |
 | halfmirror | Half Mirror | 1200 | ya75jp(yama87) |  |  |  |
 | wolf-crisis | wolf-crisis | 150 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/wolf-crisis) | o |  |
-| Avoid-Redline | avoid-redline | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Avoid-Reline) | o |  |
+| Avoid-Redline | avoid-redline | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Avoid-Redline) | o |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
