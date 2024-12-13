@@ -15,7 +15,7 @@
 | present-distributor | present-distributor | 1000 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/present-distributor) | o |  |
 | wolf-crisis | wolf-crisis | 150 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/wolf-crisis) | o |  |
 | Avoid-Redline | avoid-redline | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Avoid-Redline) | o |  |
-|  |  |  |  |  |  |  |
+| illuminated-tree | illuminated-tree | 1200 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/illuminated-tree) | o |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
