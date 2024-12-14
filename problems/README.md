@@ -1,9 +1,10 @@
 # Problem List
-> [!WARNING]
-> レギュレーションに**制約上限**が追加されました．確認してください．(2024/12/08 追記)
 
-> [!IMPORTANT]
-> 問題制作者管理のためREADME.mdが出来た時点でこのファイルに追記してください．
+すべてのブランチがmainにmergeされました．
+> [!important]
+> 2024/12/19時点でC++,PythonどちらもACが確認された問題を最終候補とします．  
+> testブランチでAC確認作業を行ってください．
+
 ## Problem List
 
 | 問題Slug | 問題タイトル | 想定Diff | 提案者 | 問題ページ(Upload済であれば) | C++<br>AC | Python<br>AC |
