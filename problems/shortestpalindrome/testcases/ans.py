@@ -3,7 +3,7 @@ import time
 
 # 入力ディレクトリと出力ディレクトリの指定
 input_dir = "./in"
-output_dir = "./oput"
+output_dir = "./out"
 
 # 出力ディレクトリの作成（存在しない場合に作成）
 os.makedirs(output_dir, exist_ok=True)
