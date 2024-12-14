@@ -30,3 +30,4 @@
 | halfmirror | ~~「クリスマス」「高専」のどちらのコンセプトにも合わないです(レギュレーションx)~~ 2024/12/08解決済み |
 | wolf-crisis | ~~mojacoderに初めて投稿するせいか、想定解と思うコードを提出しても実行時エラー(RE)になります。どなたかアドバイスください~~ 2024/12/09解決済み |
 | shortestpalindrome<br>makepalindrome | ACを得たC++コードと同様の動作をするPythonコードが通らないです |
+| Avoid-Redline<br>illuminated-tree<br>Xmas-party<br>fair-distributor | 問題文中で[Aさん]と書かれた登場人物の名前が決まっていません |
