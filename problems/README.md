@@ -17,8 +17,8 @@
 | Avoid-Redline | avoid-redline | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Avoid-Redline) | o |  |
 | illuminated-tree | illuminated-tree | 1200 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/illuminated-tree) | o |  |
 | Xmas-party | Xmas-party | 700 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Xmas-party) | o |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+| fair-distributor | fair-distributor | 400 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/fair-distributor) | o |  |
+| force-to-friend | force-to-friend | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/force-to-friend) | o |  |
 
 
 ## Announcement
