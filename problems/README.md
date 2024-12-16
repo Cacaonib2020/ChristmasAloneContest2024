@@ -13,13 +13,13 @@
 | shortestpalindrome | パンダくんは回文サンタ！ | 175 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/shortestpalindrome) | o |  |
 | makepalindrome | カカオくんは回文サンタ！ | 150 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/makepalindrome) | o |  |
 | flowerpark | Flower Park | 400 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/flowerpark) | o | o |
-| present-distributor | present-distributor | 1000 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/present-distributor) | o |  |
-| wolf-crisis | wolf-crisis | 150 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/wolf-crisis) | o |  |
-| Avoid-Redline | avoid-redline | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Avoid-Redline) | o |  |
-| illuminated-tree | illuminated-tree | 1200 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/illuminated-tree) | o |  |
-| Xmas-party | Xmas-party | 700 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Xmas-party) | o |  |
-| fair-distributor | fair-distributor | 400 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/fair-distributor) | o |  |
-| force-to-friend | force-to-friend | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/force-to-friend) | o |  |
+| present-distributor | present distributor | 1000 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/present-distributor) | o |  |
+| wolf-crisis | wolf crisis | 150 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/wolf-crisis) | o |  |
+| Avoid-Redline | avoid redline | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Avoid-Redline) | o |  |
+| illuminated-tree | illuminated tree | 1200 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/illuminated-tree) | o |  |
+| Xmas-party | Xmas party | 700 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Xmas-party) | o |  |
+| fair-distributor | fair distributor | 400 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/fair-distributor) | o |  |
+| force-to-friend | force to friend | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/force-to-friend) | o |  |
 
 
 ## Announcement
@@ -31,4 +31,4 @@
 | halfmirror | ~~「クリスマス」「高専」のどちらのコンセプトにも合わないです(レギュレーションx)~~ 2024/12/08解決済み |
 | wolf-crisis | ~~mojacoderに初めて投稿するせいか、想定解と思うコードを提出しても実行時エラー(RE)になります。どなたかアドバイスください~~ 2024/12/09解決済み |
 | shortestpalindrome<br>makepalindrome | ACを得たC++コードと同様の動作をするPythonコードが通らないです |
-| Avoid-Redline<br>illuminated-tree<br>Xmas-party<br>fair-distributor | 問題文中で[Aさん]と書かれた登場人物の名前が決まっていません |
+| Avoid Redline<br>illuminated tree<br>Xmas party<br>fair distributor | 問題文中で[Aさん]と書かれた登場人物の名前が決まっていません |
