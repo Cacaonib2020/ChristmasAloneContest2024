@@ -14,7 +14,7 @@
 | makepalindrome | カカオくんは回文サンタ！ | 150 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/makepalindrome) | o |  |
 | flowerpark | Flower Park | 400 | Cacaonib2020 | [リンク](https://mojacoder.app/users/CacaoNiB/problems/flowerpark) | o | o |
 | present-distributor | Present Distributor | 1000 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/present-distributor) | o |  |
-| wolf-crisis | Wolf Crisis | 150 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/wolf-crisis) | o |  |
+| wolf-crisis | Wolf Crisis | 150 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/wolf-crisis) | o | o |
 | Avoid-Redline | Avoid Redline | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Avoid-Redline) | o |  |
 | illuminated-tree | Illuminated Tree | 1200 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/illuminated-tree) | o |  |
 | Xmas-party | Xmas Party | 700 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Xmas-party) | o |  |
