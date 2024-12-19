@@ -20,6 +20,7 @@
 | Xmas-party | Xmas Party | 700 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Xmas-party) | o |  |
 | fair-distributor | Fair Distributor | 400 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/fair-distributor) | o |  |
 | force-to-friend | Force to Friend | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/force-to-friend) | o |  |
+| Alone-Xmas | Alone Xmas | 50 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Alone-Xmas)| o | |
 
 
 ## Announcement
