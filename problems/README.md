@@ -21,6 +21,7 @@
 | fair-distributor | fair-distributor | 400 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/fair-distributor) | o |  |
 | force-to-friend | force-to-friend | 300 | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/force-to-friend) | o |  |
 | specialsleigh | Special Sleigh | 600 | RealSyimP | [リンク](https://mojacoder.app/users/SyimP/problems/specialsleigh) |  |  |
+| packing-present-boxes | Packing Present Boxes | 25 | RealSyimP | [リンク](https://mojacoder.app/users/SyimP/problems/packing-present-boxes) |  |  |
 
 
 ## Announcement
