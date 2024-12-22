@@ -13,9 +13,9 @@
 | クリスマス商戦！パンダくん！ | 50 | Cacaonib2020 | 50 |  |  |
 | Alone Xmas | 50 | ya75jp(yama87) |  | 50 |  |
 | カカオくんは回文サンタ！ | 150 | Cacaonib2020 | 150 |  |  |
-| Wolf Crisis | 150 | ya75jp(yama87) |  | 150 |  |
+| Wolf Crisis | 150 | ya75jp(yama87) |   170| 150 |  |
 | パンダくんは回文サンタ！ | 175 | Cacaonib2020 | 175 |  |  |
-| Avoid Redline | 300 | ya75jp(yama87) |  | 300 |  |
+| Avoid Redline | 300 | ya75jp(yama87) |  550| 300 |  |
 | Force to Friend | 300 | ya75jp(yama87) |  | 300 |  |
 | Flower Park | 400 | Cacaonib2020 | 400 |  |  |
 | Fair Distributor | 400 | ya75jp(yama87) |  | 400 |  |
