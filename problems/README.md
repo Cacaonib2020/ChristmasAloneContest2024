@@ -10,16 +10,16 @@
 | 問題タイトル | 想定Diff | 提案者 | Cacaonib2020 | yama87 | RealSymP |
 | - | -: | - | -: | -: | -: |
 | Packing Present Boxes | 25 | RealSyimP |  |  | 25 |
-| クリスマス商戦！パンダくん！ | 50 | Cacaonib2020 | 50 |  |  |
+| クリスマス商戦！パンダくん！ | 50 | Cacaonib2020 | 50 | 50 |  |
 | Alone Xmas | 50 | ya75jp(yama87) |  | 50 |  |
-| カカオくんは回文サンタ！ | 150 | Cacaonib2020 | 150 |  |  |
+| カカオくんは回文サンタ！ | 150 | Cacaonib2020 | 150 | 150 |  |
 | Wolf Crisis | 150 | ya75jp(yama87) |   170| 150 |  |
-| パンダくんは回文サンタ！ | 175 | Cacaonib2020 | 175 |  |  |
+| パンダくんは回文サンタ！ | 175 | Cacaonib2020 | 175 | 200 |  |
 | Avoid Redline | 300 | ya75jp(yama87) |  550| 300 |  |
 | Force to Friend | 300 | ya75jp(yama87) |  | 300 |  |
-| Flower Park | 400 | Cacaonib2020 | 400 |  |  |
+| Flower Park | 400 | Cacaonib2020 | 400 | 300 |  |
 | Fair Distributor | 400 | ya75jp(yama87) |  | 400 |  |
-| Special Sleigh | 600 | RealSyimP |  |  | 600 |
+| Special Sleigh | 600 | RealSyimP |  | 500 | 600 |
 | Xmas Party | 700 | ya75jp(yama87) |  | 700 |  |
 | Present Distributor | 1000 | ya75jp(yama87) |  | 1000 |  |
 | Illuminated Tree | 1200 | ya75jp(yama87) |  | 1200 |  |
