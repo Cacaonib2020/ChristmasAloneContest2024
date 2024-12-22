@@ -9,9 +9,9 @@
 ## Difficulty vote
 | 問題タイトル | 想定Diff | 提案者 | Cacaonib2020 | yama87 | RealSymP |
 | - | -: | - | -: | -: | -: |
-| Packing Present Boxes | 25 | RealSyimP |  |  | 25 |
-| クリスマス商戦！パンダくん！ | 50 | Cacaonib2020 | 50 | 50 |  |
-| Alone Xmas | 50 | ya75jp(yama87) |  | 50 |  |
+| Packing Present Boxes | 25 | RealSyimP |  | 25 | 25 |
+| クリスマス商戦！パンダくん！ | 50 | Cacaonib2020 | 50 | 25 |  |
+| Alone Xmas | 25(修正) | ya75jp(yama87) |  | 25 |  |
 | カカオくんは回文サンタ！ | 150 | Cacaonib2020 | 150 | 150 |  |
 | Wolf Crisis | 150 | ya75jp(yama87) |   170| 150 |  |
 | パンダくんは回文サンタ！ | 175 | Cacaonib2020 | 175 | 200 |  |
