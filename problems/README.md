@@ -5,6 +5,25 @@
 > @yama87の提案により問題の採用条件をC++%Python ACからC++1250ms以内ACに変更しています．  
 > C++のACに状況をそのまま掲載していますが念の為ご承知おきください．
 
+
+## Difficulty vote
+| 問題タイトル | 想定Diff | 提案者 | Cacaonib2020 | yama87 | RealSymP |
+| - | -: | - | -: | -: | -: |
+| Packing Present Boxes | 25 | RealSyimP |  |  | 25 |
+| クリスマス商戦！パンダくん！ | 50 | Cacaonib2020 | 50 |  |  |
+| Alone Xmas | 50 | ya75jp(yama87) |  | 50 |  |
+| カカオくんは回文サンタ！ | 150 | Cacaonib2020 | 150 |  |  |
+| Wolf Crisis | 150 | ya75jp(yama87) |  | 150 |  |
+| パンダくんは回文サンタ！ | 175 | Cacaonib2020 | 175 |  |  |
+| Avoid Redline | 300 | ya75jp(yama87) |  | 300 |  |
+| Force to Friend | 300 | ya75jp(yama87) |  | 300 |  |
+| Flower Park | 400 | Cacaonib2020 | 400 |  |  |
+| Fair Distributor | 400 | ya75jp(yama87) |  | 400 |  |
+| Special Sleigh | 600 | RealSyimP |  |  | 600 |
+| Xmas Party | 700 | ya75jp(yama87) |  | 700 |  |
+| Present Distributor | 1000 | ya75jp(yama87) |  | 1000 |  |
+| Illuminated Tree | 1200 | ya75jp(yama87) |  | 1200 |  |
+
 ## Problem List
 
 | 問題Slug              | 問題タイトル                 | 想定Diff | 提案者         | 問題ページ(Upload済であれば)                                               | C++<br>1250msAC | 
