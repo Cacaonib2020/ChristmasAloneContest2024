@@ -2,7 +2,7 @@
 
 すべてのブランチがmainにmergeされました．
 > [!important]
-> @yama87の提案により問題の採用条件をC++%Python ACからC++1250ms以内ACに変更しています．  
+> @yama87の提案により問題の採用条件をC++＆Python ACからC++1250ms以内ACに変更しています．  
 > C++のACに状況をそのまま掲載していますが念の為ご承知おきください．
 
 
@@ -28,7 +28,7 @@
 
 | 問題Slug              | 問題タイトル                 | 想定Diff | 提案者         | 問題ページ(Upload済であれば)                                               | C++<br>1250msAC | 
 | --------------------- | ---------------------------- | --------: | -------------- | -------------------------------------------------------------------------- | :---------------: | 
-| packing-present-boxes | Packing Present Boxes        | 25       | RealSyimP      | [リンク](https://mojacoder.app/users/SyimP/problems/packing-present-boxes) |                 | 
+| packing-present-boxes | Packing Present Boxes        | 25       | RealSyimP      | [リンク](https://mojacoder.app/users/SyimP/problems/packing-present-boxes) |  o               | 
 | ornaments             | クリスマス商戦！パンダくん！ | 50       | Cacaonib2020   | [リンク](https://mojacoder.app/users/CacaoNiB/problems/ornaments)          | o               | 
 | Alone-Xmas            | Alone Xmas                   | 50       | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Alone-Xmas)           | o               | 
 | makepalindrome        | カカオくんは回文サンタ！     | 150      | Cacaonib2020   | [リンク](https://mojacoder.app/users/CacaoNiB/problems/makepalindrome)     | o               | 
@@ -38,7 +38,7 @@
 | force-to-friend       | Force to Friend              | 300      | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/force-to-friend)      | o               | 
 | flowerpark            | Flower Park                  | 400      | Cacaonib2020   | [リンク](https://mojacoder.app/users/CacaoNiB/problems/flowerpark)         | o               | 
 | fair-distributor      | Fair Distributor             | 400      | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/fair-distributor)     | o               | 
-| specialsleigh         | Special Sleigh               | 600      | RealSyimP      | [リンク](https://mojacoder.app/users/SyimP/problems/specialsleigh)         |                 | 
+| specialsleigh         | Special Sleigh               | 600      | RealSyimP      | [リンク](https://mojacoder.app/users/SyimP/problems/specialsleigh)         | o                | 
 | Xmas-party            | Xmas Party                   | 700      | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/Xmas-party)           | o               | 
 | present-distributor   | Present Distributor          | 1000     | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/present-distributor)  | o               | 
 | illuminated-tree      | Illuminated Tree             | 1200     | ya75jp(yama87) | [リンク](https://mojacoder.app/users/ya75jp/problems/illuminated-tree)     | o               | 
