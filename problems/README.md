@@ -45,6 +45,9 @@
 
 ## Announcement
 
+>[!important]
+> Avoid Redlineの制約変更、テストケース作り直しました (直前ですみません)
+
 | 問題Slug  | 補足 |
 | - | - |
 | makepalindrome | 出力を「辞書順最小」にすればDiff150~180程度 |
@@ -52,5 +55,6 @@
 | halfmirror | ~~「クリスマス」「高専」のどちらのコンセプトにも合わないです(レギュレーションx)~~ 2024/12/08解決済み |
 | wolf-crisis | ~~mojacoderに初めて投稿するせいか、想定解と思うコードを提出しても実行時エラー(RE)になります。どなたかアドバイスください~~ 2024/12/09解決済み |
 | shortestpalindrome<br>makepalindrome | ACを得たC++コードと同様の動作をするPythonコードが通らないです |
-| Avoid Redline<br>Illuminated Tree<br>Xmas Party<br>Fair Distributor | 問題文中で[Aさん]と書かれた登場人物の名前が決まっていません<br>Avoid Redlineについては、先生の名前が適当です |
+| Avoid Redline<br>Illuminated Tree<br>Xmas Party<br>Fair Distributor<br>Force to Friend| 問題文中で[Aさん]と書かれた登場人物の名前が決まっていません<br>Force to Friendについては、先生の名前が適当です |
 | Present Distributor | テストケース作り直しました |
+| Avoid Redline | 想定解の考察(試験の順番を入れ替えても労力の総和は変わらない)なしでもACできていたので、制約を変更し、テストケースを作り直しました |
